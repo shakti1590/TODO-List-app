@@ -26,9 +26,5 @@ A simple Todo Web App made using Express
 3. MongoDB
 4. Bootstrap
 
-# Screenshots
 
-<img src='snaps/img-1.png'>
-<img src='snaps/img-2.png'>
-<img src='snaps/img-3.png'>
 
